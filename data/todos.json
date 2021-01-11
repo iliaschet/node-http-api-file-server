@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title": "Изучить 1",
+        "completed": true
+    },
+    {
+        "id":2,
+        "title": "TODO 2",
+        "completed": false
+    },
+    {
+        "id":3,
+        "title": "TODO 3",
+        "completed": true
+    }
+]
